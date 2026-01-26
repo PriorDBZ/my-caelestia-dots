@@ -1,0 +1,11 @@
+{
+  "paths": {
+    "wallpaperDir": "~/Images/Wallpapers",
+    "mediaGif": "root:/assets/bongocat.gif",
+    "sessionGif": "~/Pictures/CaelestiaGifs/session.gif"
+  },
+  "appearance": {
+    "opacity": 0.8,
+    "blur": true
+  }
+}
