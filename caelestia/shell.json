@@ -463,7 +463,7 @@
     }
   },
   "services": {
-    "weatherLocation": "",
+    "weatherLocation": "Grenoble",
     "useFahrenheit": false,
     "useTwelveHourClock": false,
     "gpuType": "",
